@@ -25,7 +25,8 @@ The objective was to identify relationships between anxiety levels and lifestyle
 
 ## Dashboard Preview
 
-<img width="1794" height="647" alt="AdobeExpressPhotos_34060155a0314077a4da20fb3aeb0cc7_CopyEdited" src="https://github.com/user-attachments/assets/d1c9f30c-43d3-4373-81db-11a30105ff19" />
+<img width="1775" height="640" alt="AdobeExpressPhotos_f27ba5fcd632470693cd61cd5b221a33_CopyEdited" src="https://github.com/user-attachments/assets/95e1e9d3-510c-4975-945e-399ec95cab2d" />
+
 
 
 <img width="1606" height="654" alt="AdobeExpressPhotos_3c70d50325684bf6ac874d605aac0ff8_CopyEdited" src="https://github.com/user-attachments/assets/cc3b9d93-a380-4ff0-a263-928cf9247339" />
